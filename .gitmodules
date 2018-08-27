@@ -1,0 +1,3 @@
+[submodule "external/obd-java-api"]
+	path = external/obd-java-api
+	url = https://github.com/pires/obd-java-api.git
